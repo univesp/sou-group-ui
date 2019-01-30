@@ -20,7 +20,7 @@ Para utilizar esse boilertemplate siga os seguintes passos (Pré-requisito: Git,
 5. Crie uma maquina virtual com o comando "_docker-machine create -d hyperv univesp_"
 6. Utilize o comando para preparar o ambiente "_docker-machine env univesp_"
 7. Construa e suba os serviços com "_docker-compose up -d --build_"
-8. Agora é só codar! Para ver o app basta entrar em "_http://localhost:3000_"
+8. Agora é só rodar! Para ver o app basta entrar em "_http://localhost:3000_"
 
 ## Explicação de pastas
 
@@ -32,7 +32,7 @@ Onde fica a saída principal da aplicação (index.html) e o favicon.
 
 ### src
 
-Onde fica o código fonte da aplicação, quase tudo que você codar vai ficar por aqui.
+Onde fica o código fonte da aplicação, quase tudo que você rodar vai ficar por aqui.
 
 #### assets
 
